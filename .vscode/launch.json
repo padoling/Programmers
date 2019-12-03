@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Hash2",
+            "request": "launch",
+            "mainClass": "hash.Hash2",
+            "projectName": "Programmers"
+        }
+    ]
+}

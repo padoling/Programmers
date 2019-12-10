@@ -1,3 +1,6 @@
+/**
+ * 탑
+ */
 package stackqueue;
 
 import java.util.Stack;

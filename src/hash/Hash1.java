@@ -1,3 +1,7 @@
+/**
+ * 완주하지 못한 선수
+ */
+
 package hash;
 
 import java.util.HashMap;

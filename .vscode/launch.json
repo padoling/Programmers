@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Stackqueue2",
+            "request": "launch",
+            "mainClass": "stackqueue.Stackqueue2",
+            "projectName": "Programmers"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Stackqueue1",
             "request": "launch",
             "mainClass": "stackqueue.Stackqueue1",

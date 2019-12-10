@@ -27,7 +27,6 @@ class Solution {
                     stack.pop();
                 } else {
                     answer[i] = stack.peek()+1;
-                    stack.push(i);
                     break;
                 }
             }

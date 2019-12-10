@@ -1,3 +1,7 @@
+/**
+ * 전화번호 목록
+ */
+
 package hash;
 
 import java.util.HashMap;

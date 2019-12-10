@@ -24,9 +24,8 @@ class Solution {
             if(hashMap.containsKey(number)) {
                 answer = false;
                 return answer;
-            } else {
-                hashMap.put(number, 1);
-            }
+                }
+            hashMap.put(number, 1);
         }
 
         int len = 0;
